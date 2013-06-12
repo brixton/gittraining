@@ -1,5 +1,9 @@
 <?php
+	
+	function privet(){
+		echo "privet";
+	}
 
-	echo "privet"; 
+	privet();  
 
 ?>
